@@ -1,5 +1,5 @@
-# PROJECT PERTEMUAN 12 - SQLITE CONNECT DATABASE WITH PYTHON
-![1_qFmCunmw3pnbFTAsBy_rXw](https://github.com/Dimaspermana293/latihan-github-baru/assets/97396687/ed9dd45e-7aaf-40ce-b331-d98e31928bcf)
+# PROJECT AKHIR - SQLITE DATABASE CONNECT WITH PYTHON
+![thumbnail_github_VII](https://github.com/Dimaspermana293/latihan-github-baru/assets/97396687/dc632504-98e3-4fdd-a99a-79cd9accd5ec)
 ## Identitas
 - **Nama:** DIMAS PERMANA
 - **NPM:** 5200411293
@@ -23,6 +23,12 @@ Proyek ini bertujuan untuk menghubungkan dan berinteraksi dengan database SQLite
 3. `SELECT ALL`: Mengambil semua data dari tabel.
 4. `SELECT WHERE`: Mengambil data dengan kondisi tertentu dari tabel.
 5. `SELECT AND`: Mengambil data dengan beberapa kondisi menggunakan operator logika AND.
+6. `SELECT OR`: Mengambil data dengan beberapa kondisi menggunakan operator logika OR.
+7. `ORDER BY`: Mengurutkan hasil query berdasarkan kolom tertentu.
+8. `SUM`: Menghitung jumlah dari nilai pada suatu kolom.
+9. `LIKE`: Mengambil data dengan pola tertentu menggunakan operator LIKE.
+10. `UPDATE SET`: Memperbarui nilai kolom dalam tabel.
+11. `DELETE FROM`: Menghapus baris/baris tertentu dari tabel
 
 ## Catatan Tambahan
 Pastikan untuk menginstal library Python `sqlite3` untuk menghubungkan dan berinteraksi dengan database SQLite.
